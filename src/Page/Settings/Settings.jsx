@@ -21,7 +21,7 @@ const Settings = () => {
                         <div className='flex flex-col items-start justify-center mt-12 gap-4 px-7 '>
                             <p className='text-xl'>Profile Image</p>
                             <div className='flex items-end gap-6'>
-                                <img className='w-30' src="/public/Image/Avatar.png" alt="" />
+                                <img className='w-30' src="/Image/Avatar.png" alt="" />
                                 <p className='shadow-md shadow-gray-300 px-4 rounded-full bg-[#44547A] '>Edit Profile</p>
                             </div>
                         </div>
