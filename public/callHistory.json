@@ -1,0 +1,43 @@
+[
+  {
+    "phone": "+1 (555) 345-6789",
+    "date": "2025-12-16",
+    "time": "09:42 AM",
+    "duration": "5:23",
+    "status": "AI Resolved",
+    "type": "Screen",
+    "color": "text-emerald-500",
+    "bg": "bg-emerald-500/10"
+  },
+  {
+    "phone": "+1 (555) 345-6789",
+    "date": "2025-12-16",
+    "time": "09:42 AM",
+    "duration": "5:23",
+    "status": "Warm Transfer",
+    "type": "Software",
+    "color": "text-orange-500",
+    "bg": "bg-orange-500/10",
+    "active": true
+  },
+  {
+    "phone": "+1 (555) 345-6789",
+    "date": "2025-12-16",
+    "time": "09:42 AM",
+    "duration": "5:23",
+    "status": "Appointment",
+    "type": "Battery",
+    "color": "text-blue-500",
+    "bg": "bg-blue-500/10"
+  },
+  {
+    "phone": "+1 (555) 345-6789",
+    "date": "2025-12-16",
+    "time": "09:42 AM",
+    "duration": "0:20",
+    "status": "Dropped",
+    "type": "Unknown",
+    "color": "text-red-500",
+    "bg": "bg-red-500/10"
+  }
+]
