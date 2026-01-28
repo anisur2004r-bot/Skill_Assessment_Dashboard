@@ -6,7 +6,7 @@ const DashboardStutas = () => {
             label: 'Total Calls Today',
             value: '127',
             growth: '+12%',
-            icon: <img src="/public/Image/Vector (3).png" alt="" />,
+            icon: <img src="/Image/Vector (3).png" alt="" />,
             color: 'bg-blue-500',
         },
         {
