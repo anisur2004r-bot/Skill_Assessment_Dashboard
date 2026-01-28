@@ -50,7 +50,7 @@ const BokingList = ({clientDetails}) => {
             <div>
                 <div className='flex items-center justify-center mt-10 gap-10 text-xl text-[#1146B1]'>
                     <div className='flex gap-3 text-[#4F576B]'>
-                        <img src="/public/Image/chevron-left.png" alt="" />
+                        <img src="/Image/chevron-left.png" alt="" />
                         <p>Previous</p>
                     </div>
                     <p>1</p>
@@ -62,7 +62,7 @@ const BokingList = ({clientDetails}) => {
                     <p>11</p>
                    <div className='flex gap-3'>
                      <p>Next</p>
-                     <img src="/public/Image/chevron-right.png" alt="" />
+                     <img src="/Image/chevron-right.png" alt="" />
                    </div>
                 </div>
             </div>

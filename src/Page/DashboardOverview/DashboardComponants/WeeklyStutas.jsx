@@ -16,7 +16,7 @@ const WeeklyStutas = () => {
             </div>
             <div className='px-10 pb-6'>
                 <div className='w-full h-full flex items-center justify-center bg-[#0F172A]/30 rounded-lg p-4'>
-                    <img src="/public/Image/Container (1).png" alt="" className='w-full h-auto object-contain'/>
+                    <img src="/Image/Container (1).png" alt="" className='w-full h-auto object-contain'/>
                 </div>
             </div>
 

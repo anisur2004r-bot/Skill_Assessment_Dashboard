@@ -15,8 +15,8 @@ const CallLogs = () => {
             <div className='bg-[#111B3C] w-full h-24 flex items-center justify-between px-4 md:px-8 border-b border-[#1B3265]'>
                 <h2 className='text-xl md:text-3xl font-semibold text-white'>Call Logs & History</h2>
                 <div className='flex items-center gap-4 md:gap-8'>
-                    <img className="w-6 md:w-auto" src="/public/Image/notifications_none.png" alt="notification" />
-                    <img className="w-8 md:w-auto rounded-full" src="/public/Image/Avatar.png" alt="profile" />
+                    <img className="w-6 md:w-auto" src="/Image/notifications_none.png" alt="notification" />
+                    <img className="w-8 md:w-auto rounded-full" src="/Image/Avatar.png" alt="profile" />
                 </div>
             </div>
 

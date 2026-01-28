@@ -9,7 +9,7 @@ const CallHistory = ({ history }) => {
                     <div className="flex flex-col gap-3">
                         <div className="flex items-center justify-between px-4">
                             <div className="flex items-center gap-4">
-                                <img src="/public/Image/Container.png" alt="" />
+                                <img src="/Image/Container.png" alt="" />
                                 <div>
                                     <h2 className="text-xl font-semibold">{item.phone}</h2>
                                     <div className="flex text-[#90A1B9] mt-1 items-center gap-3">
@@ -24,12 +24,12 @@ const CallHistory = ({ history }) => {
                         </div>
                         <div className="flex items-center gap-4 px-4  border-b border-[#2d375c]">
                             <div className="flex items-center gap-2">
-                                <img src="/public/Image/Icon (8).png" alt="" />
+                                <img src="/Image/Icon (8).png" alt="" />
                                 <p  className=" text-[#90A1B9] ">{item.duration}</p>
 
                             </div>
                             <div className="flex items-center gap-2 py-4 ">
-                                <img src="/public/Image/Icon (9).png" alt="" />
+                                <img src="/Image/Icon (9).png" alt="" />
                                 <p className=" text-[#90A1B9] ">{item.status}</p>
                                 <div className=" ml-8 bg-[#152E62] px-4 py-1 rounded-md text-[#468CE2] " >
                                     <p>{item.type}</p>

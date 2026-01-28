@@ -27,7 +27,7 @@ const TotalBokingAndLink = () => {
                 <div className="bg-[#111B3C] border border-blue-900/30 p-6 rounded-2xl">
                     <div className="flex items-center gap-3 mb-4">
                         <div className="text-yellow-500 bg-yellow-500/10 p-2 rounded-lg">
-                            <img src="/public/Image/Icon (13).png" alt="" />
+                            <img src="/Image/Icon (13).png" alt="" />
                         </div>
                         <p className="text-slate-400 text-sm font-medium">Pending</p>
                     </div>
@@ -41,7 +41,7 @@ const TotalBokingAndLink = () => {
                 <div className="flex items-center gap-4 bg-[#0B1226] p-2 px-4 border border-slate-800 rounded-xl">
                     <input type="text" readOnly value="https://techstore.com/book?id=store123" className="outline-none text-slate-300 flex-1 text-xl" />
                     <button className="bg-gradient-to-r from-[#2B3B6F] to-[#1B2A55] text-white px-6 py-3 rounded-xl flex items-center gap-2 hover:opacity-90 transition-all border border-blue-400/20 shadow-lg">
-                        <img src="/public/Image/Icon (14).png" alt="" />
+                        <img src="/Image/Icon (14).png" alt="" />
                         <span className="text-sm font-medium">Copy Link</span>
                     </button>
                 </div>

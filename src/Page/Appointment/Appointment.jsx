@@ -15,8 +15,8 @@ const Appointment = () => {
             <div className='bg-[#111B3C] w-full h-24 flex items-center justify-between px-8 border-b border-[#1B3265]'>
                 <h2 className='text-3xl font-semibold text-white'>Appointments</h2>
                 <div className='flex items-center gap-8'>
-                    <img src="/public/Image/notifications_none.png" alt="" />
-                    <img src="/public/Image/Avatar.png" alt="" />
+                    <img src="/Image/notifications_none.png" alt="" />
+                    <img src="/Image/Avatar.png" alt="" />
                 </div>
             </div>
             <div className='bg-[#152353] w-full p-7'>

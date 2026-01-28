@@ -47,12 +47,12 @@ const CallDetails = () => {
             </div>
 
             <button className="w-full h-14 bg-gradient-to-r from-[#4A1D6E] to-[#2B123A] rounded-2xl flex items-center justify-center gap-3 text-purple-200 border border-purple-500/20 hover:border-purple-500/40 transition-all mb-10 shadow-lg group">
-                <img src="/public/Image/Vector (6).png" alt="" />
+                <img src="/Image/Vector (6).png" alt="" />
                 <span className="font-semibold tracking-wide">Play Audio Recording</span>
             </button>
             <div className="space-y-4">
                 <div className="flex items-center gap-3 text-white font-medium mb-4">
-                    <img src="/public/Image/Icon (10).png" alt="" />
+                    <img src="/Image/Icon (10).png" alt="" />
                     Conversation Transcript
                 </div>
                 <div className='flex flex-col gap-6'>
