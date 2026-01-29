@@ -30,6 +30,10 @@ const router = createBrowserRouter([
         path: "settings", 
         element: <Settings></Settings>
       },
+      { 
+        path: "setting2", 
+        element: <Appointment></Appointment>
+      },
     ],
   },
 ]);

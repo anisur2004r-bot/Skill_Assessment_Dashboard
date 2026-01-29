@@ -39,7 +39,7 @@ const TotalBokingAndLink = () => {
                 <p className="text-white font-semibold mb-4 text-lg">Booking Link</p>
 
                 <div className="flex items-center gap-4 bg-[#0B1226] p-2 px-4 border border-slate-800 rounded-xl">
-                    <input type="text" readOnly value="https://techstore.com/book?id=store123" className="outline-none text-slate-300 flex-1 text-xl" />
+                    <input type="text" readOnly value="https://techstore.com/book?id=store123" className="outline-none text-slate-300 flex-1 md:text-xl text-sm" />
                     <button className="bg-gradient-to-r from-[#2B3B6F] to-[#1B2A55] text-white px-6 py-3 rounded-xl flex items-center gap-2 hover:opacity-90 transition-all border border-blue-400/20 shadow-lg">
                         <img src="/Image/Icon (14).png" alt="" />
                         <span className="text-sm font-medium">Copy Link</span>
