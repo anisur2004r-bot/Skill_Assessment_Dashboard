@@ -19,7 +19,7 @@ const Root = () => {
                             <div className="flex items-center justify-center py-5">
                                 <img className="bg-[#00E3D5] px-2 py-2 rounded-xl" src="/Image/Icon (6).png" alt="" />
                             </div>
-                            <Navber />
+                            <Navber ></Navber>
                         </div>
                         <div className="flex items-center gap-3 text-xl text-red-500 mb-5 cursor-pointer">
                             <img src="/Image/streamline-flex_logout-1-remix.png" alt="" />
@@ -31,7 +31,7 @@ const Root = () => {
                     <div onClick={() => setOpen(false)} className="fixed inset-0 bg-black/50 z-40 lg:hidden" ></div>
                 )}
                 <div className="w-full text-white">
-                    <Outlet />
+                    <Outlet ></Outlet>
                 </div>
             </div>
         </div>

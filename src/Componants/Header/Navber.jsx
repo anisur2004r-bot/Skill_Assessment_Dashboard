@@ -19,7 +19,7 @@ const Navber = () => {
                 </div>
                 <div className='flex items-center gap-2 hover:shadow-md shadow-gray-300 px-4 py-2 rounded-full  duration-600'>
                     <img src="/Image/Icon (1).png" alt="" />
-                    <Link className={({ isActive }) => isActive ? `` : ``} to={"settings"}>Settings</Link>
+                    <Link to={"settings"}>Settings</Link>
                 </div>
             </div>
         </div>
